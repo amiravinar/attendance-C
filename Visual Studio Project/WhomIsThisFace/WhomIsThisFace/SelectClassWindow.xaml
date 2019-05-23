@@ -2,7 +2,7 @@
         xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Choose courses" Height="300" Width="300"
+        Title="Choose courses" Height="455.502" Width="730.888"
         ShowMaxRestoreButton="False" ResizeMode="NoResize" 
         WindowStartupLocation="CenterScreen" ShowMinButton="False">
     <Window.Resources>
